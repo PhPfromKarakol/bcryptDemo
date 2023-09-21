@@ -28,4 +28,4 @@ const login = async (pw, hashedPw) => {
 };
 
 hashPassword('nurbek');
-login("nurbekk", '$2b$10$N7jbk1urQYbzJl9H2paB3.aCtpqxAH/NcN2.3sFBDbIYrlfZsIhQe');
+login("nurbekk", 'bcrypted code from hashPwassword');
